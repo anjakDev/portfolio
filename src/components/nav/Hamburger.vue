@@ -1,4 +1,5 @@
 <template>
+  <!-- copied from: https://tailwindui.com/components/application-ui/navigation/navbars --> 
   <div class="absolute inset-y-0 right-0 flex items-center sm:hidden">
     <!-- Mobile menu button-->
     <button
